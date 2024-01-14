@@ -1,0 +1,4 @@
+## Phantom Manor
+
+### Description
+Phantom Manor is a dark ride attraction located in Frontierland at Disneyland Park in Disneyland Paris. It is Disneyland Paris' version of the Haunted Mansion attractions at Disneyland, Magic Kingdom and Tokyo Disneyland, although a lot of scenes from the Haunted Mansion have been reimagined to coincide with a darker theme. Located in Frontierland, at the far corner of the Rivers of the Far West, this attraction takes you through the haunted house of the Ravenswood family. The story goes that the house was built on a mine, and the Ravenswood family was struck by a curse that caused mysterious deaths and disappearances. The house is now haunted by the ghosts of the Ravenswood family and their guests. The attraction features a ride system unique to Disneyland Paris, Thunder Mesa Riverboats, which is a boat ride around the entire show building. The attraction also features a unique soundtrack, composed by John Debney.
