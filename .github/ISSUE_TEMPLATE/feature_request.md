@@ -1,20 +1,14 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+about: Un nouveau feature pour Disneyland ESGI arrivera bientôt !
+title: feature/
+labels: enhancement, help wanted
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+C'est l'heure d'une nouveauté à Disneyland ESGI ! Nous avons besoin d'un développeur pour le faire vivre !
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Nous avons besoin de (d'une fonctionnalité) qui apporte du divertissement au apporterait du divertissement au parc.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Toutes les contributions supplémentaires seront les bienvenues à condition qu'elles soient bien testées et exemptes de défauts de fonctionnement.
