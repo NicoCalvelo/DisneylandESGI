@@ -1,0 +1,23 @@
+{
+  "name": "disneylandesgi",
+  "version": "1.0.0",
+  "description": "Le Projet Disneyland est un projet de démonstration conçu pour illustrer mes compétences en matière de gestion de versions avec Git et GitHub. Bien que le thème soit basé sur le parc à thème Disneyland, l'objectif principal n'est pas de créer une application fonctionnelle, mais plutôt de démontrer une utilisation efficace des branches, des commits, des pull requests, et d'autres fonctionnalités de Git et GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoCalvelo/DisneylandESGI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoCalvelo/DisneylandESGI/issues"
+  },
+  "homepage": "https://github.com/NicoCalvelo/DisneylandESGI#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
