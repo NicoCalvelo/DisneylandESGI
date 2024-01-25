@@ -1,6 +1,6 @@
 /codes-promo
 /bulletin-paye
-
+node_modules
 .env
 
 
